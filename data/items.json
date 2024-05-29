@@ -1,0 +1,686 @@
+[
+	{
+		"count":1,
+		"name": "Home Castle Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Castle Keep Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Barbarian War Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Barbarian Boss Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Entrance Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Thieves Forest Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Abandoned Mill Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rapids Ride Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Catfish Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tall Grass Field Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pipistrellos Cave Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Flowery Field Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wedding Crash Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Parade Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cyclops Cave Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cyclops Gate Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cyclops Fortress Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lava World Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Industrial Castle Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dock Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pirate Ship Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Desert Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alien Ship Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Desert Chase Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sand Castle Interior Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sand Castle Roof Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marsh Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Corn Boss Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Flooded Temple Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Medusas Lair Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Full Moon Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Snow World Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ice Castle Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wizard Castle Takeoff Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wizard Castle Interior Completed",
+		"category": ["level_beat_flag"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shovel",
+		"category": ["tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sandwich",
+		"category": ["tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bow",
+		"category": ["tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Horn",
+		"category": ["tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Boomerang",
+		"category": ["tool"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bombs",
+		"category": ["tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Compass",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ships Wheel",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Telescope",
+		"category": ["key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Beholder",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "BiPolar Bear",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bitey Bat",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Burly Bear",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cardinal",
+		"category": ["pet","key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chicken",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Frogglet",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Giraffey",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hawkster",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Install Ball",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Meowburt",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Monkeyface",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mr Buddy",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Owlet",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pazzo",
+		"category": ["pet","key_item"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Piggy",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rammy",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Scratchpaw",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Seahorse",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sherbert",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Snailburt",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Snoot",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Spiny",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Troll",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Yeti",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zebra",
+		"category": ["pet"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Skinny Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pitchfork",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wrapped Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Meat Tenderizer",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Twig",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Leafy Twig",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Rod",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Half Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Carrot",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Thief Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fish",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Leaf",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lobster",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Umbrella",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wrench",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Chicken Stick",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pumpkin Peeler",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zigzag",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Falchion",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Apple Peeler",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Refined Mace",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Clunky Mace",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Practice Foil",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Light Saber",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Staff",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Kielbasa",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Thick Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Butcher Knife",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gold Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Playdo Pasta Maker",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pointy Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Chewed Up Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Curved Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Key Sword",
+		"category": ["weapon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bone Leg",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lance",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Candlestick",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Panic Mallet",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Broad Spear",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Club",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ribeye",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ice Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Demon Sword",
+		"category": ["weapon"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wooden Mace",
+		"category": ["weapon"],
+		"useful": true
+	}
+]

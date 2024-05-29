@@ -1,0 +1,199 @@
+{
+	"Chapter 1 - Home Castle": 	{
+		"starting": true,
+		"connects_to": ["Blacksmith","Chapter 1 - Castle Keep"],
+		"requires": []
+	},
+	"Chapter 1 - Castle Keep": 	{
+		"connects_to": ["Chapter 1 - Home Castle","Chapter 2 - Barbarian War"],
+		"requires": []
+	},
+	"Chapter 2 - Barbarian War": 	{
+		"connects_to": ["Chapter 1 - Castle Keep","Chapter 2 - Barbarian Boss"],
+		"requires": []
+	},
+	"Chapter 2 - Barbarian Boss": 	{
+		"connects_to": ["Chapter 8 - Dock","Chapter 3 - Forest Entrance"],
+		"requires": []
+	},
+	"Chapter 3 - Forest Entrance": 	{
+		"connects_to": ["Chapter 8 - Dock","Chapter 2 - Barbarian Boss","Chapter 3 - Thieves Forest"],
+		"requires": []
+	},
+	"Chapter 3 - Thieves Forest": 	{
+		"connects_to": ["Thieves Store","Chapter 3 - Forest Entrance","Chapter 3 - Abandoned Mill"],
+		"requires": []
+	},
+	"Chapter 3 - Abandoned Mill": 	{
+		"connects_to": ["Chapter 3 - Thieves Forest","Chapter 3 - Rapids Ride","Thieves Arena"],
+		"requires": []
+	},
+	"Chapter 3 - Rapids Ride": 	{
+		"connects_to": ["Chapter 3 - Abandoned Mill","Chapter 3 - Catfish"],
+		"requires": []
+	},
+	"Chapter 3 - Catfish": 	{
+		"connects_to": ["Chapter 4 - Tall Grass Field","Chapter 3 - Rapids Ride"],
+		"requires": []
+	},
+	"Chapter 4 - Tall Grass Field": 	{
+		"connects_to": ["Chapter 3 - Catfish","Chapter 4 - Pipistrellos Cave"],
+		"requires": []
+	},
+	"Chapter 4 - Pipistrellos Cave": 	{
+		"connects_to": ["Chapter 4 - Tall Grass Field","Chapter 5 - Flowery Field","Chapter 7 - Industrial Castle"],
+		"requires": []
+	},
+	"Chapter 5 - Flowery Field": 	{
+		"connects_to": ["Chapter 4 - Tall Grass Field","Chapter 7 - Industrial Castle","Chapter 5 - Wedding Crash"],
+		"requires": []
+	},
+	"Chapter 5 - Wedding Crash": 	{
+		"connects_to": ["Chapter 5 - Flowery Field","Church Store","Chapter 5 - Parade"],
+		"requires": []
+	},
+	"Chapter 5 - Parade": 	{
+		"connects_to": ["Chapter 5 - Wedding Crash","Chapter 5 - Cyclops Cave"],
+		"requires": []
+	},
+	"Chapter 5 - Cyclops Cave": 	{
+		"connects_to": ["Chapter 5 - Parade","Chapter 5 - Cyclops Gate"],
+		"requires": []
+	},
+	"Chapter 5 - Cyclops Gate": 	{
+		"connects_to": ["Chapter 5 - Cyclops Cave","Chapter 5 - Cyclops Fortress"],
+		"requires": []
+	},
+	"Chapter 5 - Cyclops Fortress": 	{
+		"connects_to": ["Chapter 5 - Cyclops Gate","Chapter 6 - Lava World"],
+		"requires": []
+	},
+	"Chapter 6 - Lava World": 	{
+		"connects_to": ["Chapter 5 - Cyclops Fortress","Volcano Store"],
+		"requires": []
+	},
+	"Chapter 7 - Industrial Castle": 	{
+		"connects_to": ["Chapter 4 - Pipistrellos Cave","Chapter 5 - Flowery Field"],
+		"requires": []
+	},
+	"Chapter 8 - Dock": 	{
+		"connects_to": ["Chapter 2 - Barbarian Boss","Chapter 3 - Forest Entrance","Chapter 8 - Pirate Ship"],
+		"requires": "|Compass| AND |Ships Wheel| AND |Telescope|"
+	},
+	"Chapter 8 - Pirate Ship": 	{
+		"connects_to": ["Chapter 8 - Dock","Chapter 8 - Desert"],
+		"requires": []
+	},
+	"Chapter 8 - Desert": 	{
+		"connects_to": ["Chapter 8 - Pirate Ship","Chapter 8 - Alien Ship"],
+		"requires": []
+	},
+	"Chapter 8 - Alien Ship": 	{
+		"connects_to": ["Chapter 8 - Desert","Chapter 8 - Desert Chase"],
+		"requires": []
+	},
+	"Chapter 8 - Desert Chase": 	{
+		"connects_to": ["Chapter 8 - Alien Ship","Chapter 8 - Sand Castle Interior","Chapter 10 - Flooded Temple"],
+		"requires": []
+	},
+	"Chapter 8 - Sand Castle Interior": 	{
+		"connects_to": ["Chapter 8 - Desert Chase","Chapter 8 - Sand Castle Roof"],
+		"requires": []
+	},
+	"Chapter 8 - Sand Castle Roof": 	{
+		"connects_to": ["Chapter 8 - Sand Castle Interior"],
+		"requires": []
+	},
+	"Chapter 9 - Marsh": 	{
+		"connects_to": ["Chapter 10 - Flooded Temple","Chapter 9 - Corn Boss"],
+		"requires": []
+	},
+	"Chapter 9 - Corn Boss": 	{
+		"connects_to": ["Chapter 9 - Marsh","Swamp Village Store"],
+		"requires": []
+	},
+	"Chapter 10 - Flooded Temple": 	{
+		"connects_to": ["Chapter 8 - Desert Chase","Chapter 9 - Marsh","Chapter 10 - Medusas Lair"],
+		"requires": []
+	},
+	"Chapter 10 - Medusas Lair": 	{
+		"connects_to": ["Chapter 10 - Flooded Temple","Chapter 11 - Full Moon"],
+		"requires": []
+	},
+	"Chapter 11 - Full Moon": 	{
+		"connects_to": ["Chapter 10 - Medusas Lair","Chapter 11 - Snow World"],
+		"requires": []
+	},
+	"Chapter 11 - Snow World": 	{
+		"connects_to": ["Chapter 11 - Full Moon","Icy Arena","Snow Store","Chapter 11 - Ice Castle"],
+		"requires": []
+	},
+	"Chapter 11 - Ice Castle": 	{
+		"connects_to": ["Chapter 11 - Snow World","Chapter 12 - Wizard Castle Takeoff"],
+		"requires": []
+	},
+	"Chapter 12 - Wizard Castle Takeoff": 	{
+		"connects_to": ["Chapter 11 - Ice Castle","Chapter 12 - Wizard Castle Interior"],
+		"requires": []
+	},
+	"Chapter 12 - Wizard Castle Interior": 	{
+		"connects_to": ["Chapter 12 - Wizard Castle Takeoff","Chapter 12 - Final Battle"],
+		"requires": []
+	},
+	"Chapter 12 - Final Battle": 	{
+		"connects_to": ["Chapter 12 - Wizard Castle Interior"],
+		"requires": []
+	},
+	"Blacksmith": 	{
+		"connects_to": ["Kings Arena","Chapter 1 - Home Castle","Animal Ark"],
+		"requires": []
+	},
+	"Animal Ark": 	{
+		"connects_to": ["Blacksmith"],
+		"requires": []
+	},
+	"Castle Keep Store": 	{
+		"connects_to": ["Chapter 2 - Barbarian War","Chapter 1 - Home Castle"],
+		"requires": []
+	},
+	"Thieves Store": 	{
+		"connects_to": ["Chapter 3 - Thieves Forest"],
+		"requires": []
+	},
+	"Church Store": 	{
+		"connects_to": ["Chapter 5 - Wedding Crash"],
+		"requires": []
+	},
+	"Volcano Store": 	{
+		"connects_to": ["Chapter 6 - Lava World","Volcano Arena"],
+		"requires": []
+	},
+	"Swamp Village Store": 	{
+		"connects_to": ["Peasant Arena","Chapter 9 - Corn Boss"],
+		"requires": []
+	},
+	"Snow Store": 	{
+		"connects_to": ["Chapter 11 - Snow World"],
+		"requires": []
+	},
+	"Kings Arena": 	{
+		"connects_to": ["Blacksmith"],
+		"requires": []
+	},
+	"Thieves Arena": 	{
+		"connects_to": ["Chapter 3 - Abandoned Mill"],
+		"requires": []
+	},
+	"Volcano Arena": 	{
+		"connects_to": ["Volcano Store"],
+		"requires": []
+	},
+	"Peasant Arena": 	{
+		"connects_to": ["Swamp Village Store"],
+		"requires": []
+	},
+	"Icy Arena": 	{
+		"connects_to": ["Chapter 11 - Snow World"],
+		"requires": []
+}
+}

@@ -1,0 +1,751 @@
+[
+	{
+		"region": "Chapter 1 - Home Castle",
+		"name": "Home Castle Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Home Castle Completed"]
+	},
+	{
+		"region": "Chapter 1 - Castle Keep",
+		"name": "Castle Keep Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Castle Keep Completed"]
+	},
+	{
+		"region": "Chapter 2 - Barbarian War",
+		"name": "Barbarian War Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Barbarian War Completed"]
+	},
+	{
+		"region": "Chapter 2 - Barbarian Boss",
+		"name": "Barbarian Boss Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Barbarian Boss Completed"]
+	},
+	{
+		"region": "Chapter 3 - Forest Entrance",
+		"name": "Forest Entrance Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Forest Entrance Completed"]
+	},
+	{
+		"region": "Chapter 3 - Thieves Forest",
+		"name": "Thieves Forest Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Thieves Forest Completed"]
+	},
+	{
+		"region": "Chapter 3 - Abandoned Mill",
+		"name": "Abandoned Mill Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Abandoned Mill Completed"]
+	},
+	{
+		"region": "Chapter 3 - Rapids Ride",
+		"name": "Rapids Ride Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Rapids Ride Completed"]
+	},
+	{
+		"region": "Chapter 3 - Catfish",
+		"name": "Catfish Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Catfish Completed"]
+	},
+	{
+		"region": "Chapter 4 - Tall Grass Field",
+		"name": "Tall Grass Field Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Tall Grass Field Completed"]
+	},
+	{
+		"region": "Chapter 4 - Pipistrellos Cave",
+		"name": "Pipistrellos Cave Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Pipistrellos Cave Completed"]
+	},
+	{
+		"region": "Chapter 5 - Flowery Field",
+		"name": "Flowery Field Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Flowery Field Completed"]
+	},
+	{
+		"region": "Chapter 5 - Wedding Crash",
+		"name": "Wedding Crash Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Wedding Crash Completed"]
+	},
+	{
+		"region": "Chapter 5 - Parade",
+		"name": "Parade Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Parade Completed"]
+	},
+	{
+		"region": "Chapter 5 - Cyclops Cave",
+		"name": "Cyclops Cave Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Cyclops Cave Completed"]
+	},
+	{
+		"region": "Chapter 5 - Cyclops Gate",
+		"name": "Cyclops Gate Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Cyclops Gate Completed"]
+	},
+	{
+		"region": "Chapter 5 - Cyclops Fortress",
+		"name": "Cyclops Fortress Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Cyclops Fortress Completed"]
+	},
+	{
+		"region": "Chapter 6 - Lava World",
+		"name": "Lava World Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Lava World Completed"]
+	},
+	{
+		"region": "Chapter 7 - Industrial Castle",
+		"name": "Industrial Castle Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Industrial Castle Completed"]
+	},
+	{
+		"region": "Chapter 8 - Dock",
+		"name": "Dock Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Dock Completed"]
+	},
+	{
+		"region": "Chapter 8 - Pirate Ship",
+		"name": "Pirate Ship Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Pirate Ship Completed"]
+	},
+	{
+		"region": "Chapter 8 - Desert",
+		"name": "Desert Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Desert Completed"]
+	},
+	{
+		"region": "Chapter 8 - Alien Ship",
+		"name": "Alien Ship Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Alien Ship Completed"]
+	},
+	{
+		"region": "Chapter 8 - Desert Chase",
+		"name": "Desert Chase Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Desert Chase Completed"]
+	},
+	{
+		"region": "Chapter 8 - Sand Castle Interior",
+		"name": "Sand Castle Interior Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Sand Castle Interior Completed"]
+	},
+	{
+		"region": "Chapter 8 - Sand Castle Roof",
+		"name": "Sand Castle Roof Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Sand Castle Roof Completed"]
+	},
+	{
+		"region": "Chapter 9 - Marsh",
+		"name": "Marsh Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Marsh Completed"]
+	},
+	{
+		"region": "Chapter 9 - Corn Boss",
+		"name": "Corn Boss Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Corn Boss Completed"]
+	},
+	{
+		"region": "Chapter 10 - Flooded Temple",
+		"name": "Flooded Temple Completed",
+		"category": ["level_completion"],
+		"requires": "|Horn|",
+		"place_item": ["Flooded Temple Completed"]
+	},
+	{
+		"region": "Chapter 10 - Medusas Lair",
+		"name": "Medusas Lair Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Medusas Lair Completed"]
+	},
+	{
+		"region": "Chapter 11 - Full Moon",
+		"name": "Full Moon Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Full Moon Completed"]
+	},
+	{
+		"region": "Chapter 11 - Snow World",
+		"name": "Snow World Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Snow World Completed"]
+	},
+	{
+		"region": "Chapter 11 - Ice Castle",
+		"name": "Ice Castle Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Ice Castle Completed"]
+	},
+	{
+		"region": "Chapter 12 - Wizard Castle Takeoff",
+		"name": "Wizard Castle Takeoff Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Wizard Castle Takeoff Completed"]
+	},
+	{
+		"region": "Chapter 12 - Wizard Castle Interior",
+		"name": "Wizard Castle Interior Completed",
+		"category": ["level_completion"],
+		"requires": [],
+		"place_item": ["Wizard Castle Interior Completed"]
+	},
+	{
+		"region": "Chapter 12 - Final Battle",
+		"victory": true,
+		"name": "Final Battle Completed",
+		"category": ["level_completion"],
+		"requires": []
+	},
+	{
+		"name": "Desert - Pickup Shovel",
+		"region": "Chapter 8 - Desert",
+		"category": ["tool_pickup"],
+		"requires": []
+	},
+	{
+		"name": "Lava World - Pickup Sandwich (or Buy from Volcano Store)",
+		"region": "Chapter 6 - Lava World",
+		"category": ["tool_pickup"],
+		"requires": []
+	},
+	{
+		"name": "Barbarian War - Pickup Bow",
+		"region": "Chapter 2 - Barbarian War",
+		"category": ["tool_pickup"],
+		"requires": []
+	},
+	{
+		"name": "Corn Boss - Pickup Horn",
+		"region": "Chapter 9 - Corn Boss",
+		"category": ["tool_pickup"],
+		"requires": []
+	},
+	{
+		"name": "Thieves Forest - Pickup Boomerang behind Pooping Owl Bush",
+		"region": "Chapter 3 - Thieves Forest",
+		"category": ["tool_pickup"],
+		"requires": "|Cardinal|"
+	},
+	{
+		"name": "Any Shop - Buy Bombs",
+		"region": "Thieves Store",
+		"category": ["tool_pickup","shop_purchase"],
+		"requires": []
+	},
+	{
+		"name": "Blacksmith - Pickup Compass",
+		"region": "Blacksmith",
+		"category": ["key_item_pickup"],
+		"requires": []
+	},
+	{
+		"name": "Lava World - Pickup Ships Wheel",
+		"region": "Chapter 6 - Lava World",
+		"category": ["key_item"],
+		"requires": []
+	},
+	{
+		"name": "Industrial Castle - Pickup Telescope",
+		"region": "Chapter 7 - Industrial Castle",
+		"category": ["key_item"],
+		"requires": "|Sandwich|"
+	},
+	{
+		"name": "Animal Ark - Beholder behind Key Sword Door",
+		"region": "Animal Ark",
+		"category": ["animal_orb"],
+		"requires": "|Key Sword|"
+	},
+	{
+		"name": "Snow World - BiPolar Bear at Ice Castle Horn Cave",
+		"region": "Chapter 11 - Snow World",
+		"category": ["animal_orb"],
+		"requires": "|Horn|"
+	},
+	{
+		"name": "Pipistrellos Cave - Bitey Bat after Defeating Pipistrello",
+		"region": "Chapter 4 - Pipistrellos Cave",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Tall Grass Field - Burly Bear behind Cracked Wall in Sandwich Cave",
+		"region": "Chapter 4 - Tall Grass Field",
+		"category": ["animal_orb"],
+		"requires": "|Sandwich| AND |Bombs|"
+	},
+	{
+		"name": "Industrial Castle - Cardinal after Defeating Beefy Brute",
+		"region": "Chapter 7 - Industrial Castle",
+		"category": ["animal_orb"],
+		"requires": "|Sandwich|"
+	},
+	{
+		"name": "Medusas Lair - Chicken at Spawn Dig Spot",
+		"region": "Chapter 10 - Medusas Lair",
+		"category": ["animal_orb"],
+		"requires": "|Shovel|"
+	},
+	{
+		"name": "Marsh - Frogglet in Graveyard Mausoleum Dig Spot",
+		"region": "Chapter 9 - Marsh",
+		"category": ["animal_orb"],
+		"requires": "|Shovel|"
+	},
+	{
+		"name": "Desert - Giraffey at Midlevel Dig Spot",
+		"region": "Chapter 8 - Desert",
+		"category": ["animal_orb"],
+		"requires": "|Shovel|"
+	},
+	{
+		"name": "Tall Grass Field - Hawkster at Horn Hut",
+		"region": "Chapter 4 - Tall Grass Field",
+		"category": ["animal_orb"],
+		"requires": "|Horn|"
+	},
+	{
+		"name": "Alien Ship - Install Ball in Hidden Doorway during Countdown",
+		"region": "Chapter 8 - Alien Ship",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Parade - Meowburt before Cyclops Cave Entrance",
+		"region": "Chapter 5 - Parade",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Church Store - Buy Monkeyface",
+		"region": "Church Store",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Home Castle - Mr Buddy at Far Left Barracks Dig Spot",
+		"region": "Chapter 1 - Home Castle",
+		"category": ["animal_orb"],
+		"requires": "|Shovel|"
+	},
+	{
+		"name": "Forest Entrance - Owlet in Musical Bush",
+		"region": "Chapter 3 - Forest Entrance",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Snow Store - Buy Pazzo",
+		"region": "Snow Store",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Swamp Village Store - Buy Piggy",
+		"region": "Swamp Village Store",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Tall Grass Field - Rammy after Defeating Bear Boss",
+		"region": "Chapter 4 - Tall Grass Field",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Sand Castle Interior - Scratchpaw behind Cracked Wall at Spawn",
+		"region": "Chapter 8 - Sand Castle Interior",
+		"category": ["animal_orb"],
+		"requires": "|Bombs|"
+	},
+	{
+		"name": "Thieves Forest - Seahorse in River",
+		"region": "Chapter 3 - Thieves Forest",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Animal Ark - Sherbert Climb above Key Sword Door",
+		"region": "Animal Ark",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Marsh - Snailburt near Hut",
+		"region": "Chapter 9 - Marsh",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Cyclops Fortress - Snoot at Second Enclave behind Cracked Wall",
+		"region": "Chapter 5 - Cyclops Fortress",
+		"category": ["animal_orb"],
+		"requires": "|Bombs|"
+	},
+	{
+		"name": "Volcano Store - Buy Spiny",
+		"region": "Volcano Arena",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Thieves Forest - Troll behind Peekhole Wall",
+		"region": "Chapter 3 - Thieves Forest",
+		"category": ["animal_orb"],
+		"requires": "|Bombs|"
+	},
+	{
+		"name": "Snow World - Yeti before Ice Castle behind Lights On House",
+		"region": "Chapter 11 - Snow World",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Desert Chase - Zebra saved from Camel Saracen before Escaping",
+		"region": "Chapter 8 - Desert Chase",
+		"category": ["animal_orb"],
+		"requires": []
+	},
+	{
+		"name": "Castle Keep Store - Buy Skinny Sword",
+		"region": "Castle Keep Store",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Home Castle - Pickup Pitchfork",
+		"region": "Chapter 1 - Home Castle",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Thieves Forest - Pickup Wrapped Sword behind Pillar",
+		"region": "Chapter 3 - Thieves Forest",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Thieves Forest - Pickup Meat Tenderizer from Chest",
+		"region": "Chapter 3 - Thieves Forest",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Thieves Store - Buy Twig",
+		"region": "Thieves Store",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Thieves Forest - Pickup Leafy Twig from Chest",
+		"region": "Chapter 3 - Thieves Forest",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Marsh - Pickup Fishing Rod with Cardinal near Snakeys",
+		"region": "Chapter 9 - Marsh",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Industrial Castle - Pickup Half Sword in Bush",
+		"region": "Chapter 7 - Industrial Castle",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Home Castle - Dig Up Carrot at Final Hut",
+		"region": "Chapter 1 - Home Castle",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Thieves Forest - Pickup Thief Sword from Thieves",
+		"region": "Chapter 3 - Thieves Forest",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Tall Grass Field - Pickup Fish in Sandwich Cave",
+		"region": "Chapter 4 - Tall Grass Field",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Forest Entrance - Dig Up Leaf at Midground Tree",
+		"region": "Chapter 3 - Forest Entrance",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Tall Grass Field - Dig Up Lobster on Beach",
+		"region": "Chapter 4 - Tall Grass Field",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Tall Grass Field - Dig Up Umbrella after Bear Boss Fight",
+		"region": "Chapter 4 - Tall Grass Field",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Tall Grass Field - Pickup Wrench from Catapult Repairman",
+		"region": "Chapter 4 - Tall Grass Field",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Snow World - Dig Up Chicken Stick at Iceskimo Village",
+		"region": "Chapter 11 - Snow World",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Desert Chase - Dig Up Pumpkin Peeler near Bird Snake Statue",
+		"region": "Chapter 8 - Desert Chase",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Industrial Castle - Dig Up Zigzag at Princes Portrait",
+		"region": "Chapter 7 - Industrial Castle",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Desert - Pickup Falchion from Saracen",
+		"region": "Chapter 8 - Desert",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Wedding Crash - Dig Up Apple Peeler in Carpet",
+		"region": "Chapter 5 - Wedding Crash",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Flowery Field - Dig Up Refined Mace after Bees",
+		"region": "Chapter 5 - Flowery Field",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Volcano Store - Buy Clunky Mace",
+		"region": "Volcano Store",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Church Store - Buy Practice Foil",
+		"region": "Church Store",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Cyclops Fortress - Pickup Light Saber from Coneheads",
+		"region": "Chapter 5 - Cyclops Fortress",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Church Store - Buy Staff",
+		"region": "Church Store",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Desert Chase - Dig Up Kielbasa at Start of Camel Chase",
+		"region": "Chapter 8 - Desert Chase",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Swamp Village Store - Buy Thick Sword",
+		"region": "Swamp Village Store",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Snow Store - Buy Butcher Knife",
+		"region": "Snow Store",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Marsh - Dig Up Gold Sword behind Twin Houses",
+		"region": "Chapter 9 - Marsh",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Medusas Lair - Pickup Playdo Pasta Maker from Medusas Petrified Body",
+		"region": "Chapter 10 - Medusas Lair",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Industrial Castle - Pickup Pointy Sword with Cardinal from Industrial Machine Boss",
+		"region": "Chapter 7 - Industrial Castle",
+		"category": ["weapon_location"],
+		"requires": "|Cardinal|"
+	},
+	{
+		"name": "Medusas Lairs - Chewed Up Sword between Two Staircases",
+		"region": "Chapter 10 - Medusas Lair",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Sand Castle Roof - Dig Up Curved Sword after Third Enemy Wave",
+		"region": "Chapter 8 - Sand Castle Roof",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Full Moon - Pickup Key Sword from Shack during Stove Face Army Fight",
+		"region": "Chapter 11 - Full Moon",
+		"category": ["weapon_location"],
+		"requires": "|Cardinal|"
+	},
+	{
+		"name": "Snow Store - Dig Up Bone Leg with Pazzo",
+		"region": "Snow Store",
+		"category": ["weapon_location"],
+		"requires": "|Pazzo|"
+	},
+	{
+		"name": "Snow Store - Buy Lance",
+		"region": "Snow Store",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Marsh - Pickup Panic Mallet from Tombstone Behind Bush",
+		"region": "Chapter 9 - Marsh",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Medusas Lair - Pickup Broad Spear from Third Fishman Statute",
+		"region": "Chapter 10 - Medusas Lair",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Tall Grass Field - Pickup Club from Bears",
+		"region": "Chapter 4 - Tall Grass Field",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Ice Castle - Ribeye hanging near Destructible Wall",
+		"region": "Chapter 11 - Ice Castle",
+		"category": ["weapon_location"],
+		"requires": "|Bombs|"
+	},
+	{
+		"name": "Ice Castle - Pickup Ice Sword from Second Room with Pazzo",
+		"category": ["weapon_location"],
+		"requires": "|Pazzo|"
+	},
+	{
+		"name": "Final Battle - Pickup Demon Sword from Evil Wizard",
+		"region": "Chapter 12 - Final Battle",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Wizard Castle Interior - Dig Up Wooden Mace near Undead Cyclops",
+		"region": "Chapter 12 - Wizard Castle Interior",
+		"category": ["weapon_location"],
+		"requires": []
+	},
+	{
+		"name": "Kings Arena - Unlock Barbarian",
+		"region": "Kings Arena",
+		"category": ["knight_unlock"],
+		"requires": "|Barbarian Boss Completed|"
+	},
+	{
+		"name": "Thieves Arena - Unlock Thief",
+		"region": "Thieves Arena",
+		"category": ["knight_unlock"],
+		"requires": "|Thieves Forest Completed|"
+	},
+	{
+		"name": "Peasant Arena - Unlock Peasant",
+		"region": "Peasant Arena",
+		"category": ["knight_unlock"],
+		"requires": "|Corn Boss Completed|"
+	},
+	{
+		"name": "Icy Arena - Unlock Iceskimo",
+		"region": "Icy Arena",
+		"category": ["knight_unlock"],
+		"requires": "|Snow World Completed|"
+	},
+	{
+		"name": "Alien Ship - Unlock Alien Hominid",
+		"region": "Chapter 8 - Alien Ship",
+		"category": ["knight_unlock"],
+		"requires": "|Dock Completed| AND |Bow|"
+	}
+]
